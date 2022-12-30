@@ -1,0 +1,5 @@
+outs:
+- md5: 9a8e0df9c70c539b411c0c6d59f8744e.dir
+  size: 109864189
+  nfiles: 12
+  path: sorted_data_acl
